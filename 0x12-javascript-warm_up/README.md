@@ -1,1 +1,1 @@
-## WELCOME TO JAVASCRIPT!
+## 0x12-javascript-warm_up
